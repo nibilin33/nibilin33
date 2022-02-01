@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Metrics](https://metrics.lecoq.io/nibilin33?template=classic&config.timezone=Africa%2FMogadishu)
 <!--
 **nibilin33/nibilin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
