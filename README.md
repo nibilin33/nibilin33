@@ -3,7 +3,7 @@
 ![nibilin33's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nibilin33&layout=compact&hide_border=true&langs_count=10)   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nibilin33)](https://git.io/streak-stats)   
 ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)   
-![nibilin33's Metrics](https://metrics.lecoq.io/nibilin33?template=classic&config.timezone=Africa%2FMogadishu)
+![nibilin33's Metrics](https://metrics.lecoq.io/nibilin33?template=classic&base.header=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FMogadishu)
 
 <!--
 **nibilin33/nibilin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
