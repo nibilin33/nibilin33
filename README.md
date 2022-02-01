@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi✨✨here)](https://git.io/typing-svg) 
 
-<center>
+<div align=center>
 
 ![nibilin33's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nibilin33&layout=compact&hide_border=true&langs_count=10)     
 
@@ -8,7 +8,7 @@
 
 ![Metrics](https://metrics.lecoq.io/nibilin33?template=classic&base.header=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FMogadishu)
 
-</center>
+</div>
 
 ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)
 
