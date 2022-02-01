@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibilin33)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Metrics](https://metrics.lecoq.io/nibilin33?template=classic&config.timezone=Africa%2FMogadishu)
 
 <!--
