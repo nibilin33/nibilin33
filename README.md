@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nibilin33)](https://git.io/streak-stats)     
 ![nibilin33's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nibilin33&layout=compact&hide_border=true&langs_count=10)   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nibilin33)](https://git.io/streak-stats)   
 ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)   
