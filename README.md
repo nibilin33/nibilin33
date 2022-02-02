@@ -20,6 +20,8 @@
 - [每天一个实用npm库](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/npm.md) 
 - [chromium设计文档](https://github.com/nibilin33/Chromium-design)          
 
+### Self-introduction
+😄 [Click me](https://nibilin33.github.io/nibl-resume/)        
 <!--
 **nibilin33/nibilin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
