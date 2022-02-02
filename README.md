@@ -12,6 +12,14 @@
 
 ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)
 
+### 🌱 Recent study and notes 🌱
+- [工作日记](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/worknote.md) 
+- [工作软技能](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/softpower.md)  
+- [边缘计算](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/edge.md)
+- [IoT]()    
+- [每天一个实用npm库](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/npm.md) 
+- [chromium设计文档](https://github.com/nibilin33/Chromium-design)          
+
 <!--
 **nibilin33/nibilin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
