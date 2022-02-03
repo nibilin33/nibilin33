@@ -13,10 +13,11 @@
 ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)
 
 ### 🌱 Recent study and notes 🌱
-- [工作软技能](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/softpower.md)  
-- [边缘计算](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/edge.md)
-- [IoT](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/iot.md)    
-- [每天一个实用npm库](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/npm.md) 
+- [工作软技能](https://nibilin33.github.io/frontend-blog/guide/softpower.html)      
+- [图形学编程OpenGL](https://nibilin33.github.io/frontend-blog/guide/graphics.html)        
+- [边缘计算](https://nibilin33.github.io/frontend-blog/guide/edge.html)     
+- [IoT](https://nibilin33.github.io/frontend-blog/guide/iot.html)    
+- [每天一个实用npm库](https://nibilin33.github.io/frontend-blog/guide/npm.html)         
 - [chromium设计文档](https://github.com/nibilin33/Chromium-design)          
 
 ### Self-introduction
