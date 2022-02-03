@@ -15,7 +15,7 @@
 ### 🌱 Recent study and notes 🌱
 - [工作软技能](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/softpower.md)  
 - [边缘计算](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/edge.md)
-- [IoT]()    
+- [IoT](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/iot.md)    
 - [每天一个实用npm库](https://github.com/nibilin33/frontend-blog/blob/master/press/guide/npm.md) 
 - [chromium设计文档](https://github.com/nibilin33/Chromium-design)          
 
