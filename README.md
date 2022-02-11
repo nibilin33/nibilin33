@@ -13,7 +13,8 @@
 ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)
 
 ### 🌱 Recent study and notes 🌱
-- [工作软技能](https://nibilin33.github.io/frontend-blog/guide/softpower.html)      
+- [工作软技能](https://nibilin33.github.io/frontend-blog/guide/softpower.html)   
+- [程序员的英语](https://nibilin33.github.io/frontend-blog/guide/programmer-english.html)           
 - [图形学编程OpenGL](https://nibilin33.github.io/frontend-blog/guide/graphics.html)        
 - [边缘计算](https://nibilin33.github.io/frontend-blog/guide/edge.html)     
 - [IoT](https://nibilin33.github.io/frontend-blog/guide/iot.html)    
