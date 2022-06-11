@@ -14,8 +14,8 @@
 
 ### 🌱 Recent study and notes 🌱
 - [远程办公相关资料](https://github.com/nibilin33/remote-work)  
-- [工作软技能](https://nibilin33.github.io/frontend-blog/guide/softpower.html)   
-- [程序员的英语](https://nibilin33.github.io/frontend-blog/guide/programmer-english.html)           
+- [mini-canvas](https://nibilin33.github.io/frontend-blog/guide/mini-canvas.html)   
+- [英文面试资料](https://nibilin33.github.io/frontend-blog/guide/foreigner.html)            
 - [每天一个实用npm库](https://nibilin33.github.io/frontend-blog/guide/npm.html)         
 - [chromium设计文档](https://github.com/nibilin33/Chromium-design)          
 
