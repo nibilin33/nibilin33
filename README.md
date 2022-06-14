@@ -4,14 +4,16 @@
 
 ![nibilin33's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nibilin33&layout=compact&hide_border=true&langs_count=10)     
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nibilin33)](https://git.io/streak-stats)   
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nibilin33)](https://git.io/streak-stats)   
 
-![Metrics](https://metrics.lecoq.io/nibilin33?template=classic&base.header=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FMogadishu)
+![Metrics](https://metrics.lecoq.io/nibilin33?template=classic&base.header=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FMogadishu) -->
 
 </div>
 
 ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)
 
+### What happened?
+I'm looking for a language partner. welcome to contact me by email 🙏🏻       
 ### 🌱 Recent study and notes 🌱
 - [远程办公相关资料](https://github.com/nibilin33/remote-work)  
 - [mini-canvas](https://nibilin33.github.io/frontend-blog/guide/mini-canvas.html)   
