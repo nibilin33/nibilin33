@@ -13,7 +13,7 @@
 ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)
 
 ### What happened?
-I'm looking for a language partner. welcome to contact me by email 🙏🏻       
+I'm looking for a language partner. welcome to contact me by email or twitter 🙏🏻       
 ### 🌱 Recent study and notes 🌱
 - [远程办公相关资料](https://github.com/nibilin33/remote-work)  
 - [mini-canvas](https://nibilin33.github.io/frontend-blog/guide/mini-canvas.html)   
