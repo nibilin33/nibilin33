@@ -17,9 +17,7 @@
 - [日常爬虫小运用](https://nibilin33.github.io/frontend-blog/guide/tool.html#爬虫)
 - [远程办公相关资料](https://github.com/nibilin33/remote-work)  
 - [mini-canvas](https://nibilin33.github.io/frontend-blog/guide/mini-canvas.html)   
-- [英文面试资料](https://nibilin33.github.io/frontend-blog/guide/foreigner.html)            
-- [每天一个实用npm库](https://nibilin33.github.io/frontend-blog/guide/npm.html)         
-- [chromium设计文档](https://github.com/nibilin33/Chromium-design)          
+- [英文面试资料](https://nibilin33.github.io/frontend-blog/guide/foreigner.html)                   
 
 ### Self-introduction
 😄 [中文版简历](https://nibilin33.github.io/nibl-resume/)       
