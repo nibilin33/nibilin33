@@ -13,6 +13,7 @@
 ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)
 
 ### 🌱 Recent study and notes 🌱
+- [IELTS learning](https://github.com/nibilin33/IELTS/blob/main/README.md)      
 - [日常爬虫小运用](https://nibilin33.github.io/frontend-blog/guide/tool.html#爬虫)
 - [远程办公相关资料](https://github.com/nibilin33/remote-work)  
 - [mini-canvas](https://nibilin33.github.io/frontend-blog/guide/mini-canvas.html)   
