@@ -21,7 +21,7 @@
 
 ### Self-introduction
 😄 [中文版简历](https://nibilin33.github.io/nibl-resume/)       
-✨ [Resume in English](https://nibilin33.github.io/nibl-resume/en)   
+✨ [Resume in English](https://nibilin33.github.io/nibl-resume/#/en)   
 <!--
 **nibilin33/nibilin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
