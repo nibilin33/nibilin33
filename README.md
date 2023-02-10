@@ -22,8 +22,7 @@
 ### 🌱 Recent study and notes 🌱
 - [micro frontend](https://nibilin33.github.io/frontend-blog/guide/micro.html)    
 - [enhancement in multi-end component development](https://nibilin33.github.io/frontend-blog/guide/promto.html#%E4%BC%98%E5%8C%96%E5%A4%9A%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91)
-- [frontend effectiveness](https://github.com/nibilin33/react-project-template)       
-- [英文面试资料](https://nibilin33.github.io/frontend-blog/guide/foreigner.html)                   
+- [frontend effectiveness](https://github.com/nibilin33/react-project-template)                        
 
 ### Self-introduction
 😄 [中文版简历](https://nibilin33.github.io/nibl-resume/)       
@@ -40,7 +39,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
+- profile made: https://profilinator.rishav.dev/
 -->
 
 
