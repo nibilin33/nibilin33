@@ -20,6 +20,7 @@
 
 
 ### 🌱 Recent study and notes 🌱
+- [micro miniprogram](https://zhuanlan.zhihu.com/p/618589228)       
 - [micro frontend](https://nibilin33.github.io/frontend-blog/guide/micro.html)    
 - [enhancement in multi-end component development](https://nibilin33.github.io/frontend-blog/guide/promto.html#%E4%BC%98%E5%8C%96%E5%A4%9A%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91)
 - [frontend effectiveness](https://github.com/nibilin33/react-project-template)                        
