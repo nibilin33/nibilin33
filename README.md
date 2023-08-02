@@ -10,8 +10,8 @@
 ![Metrics](https://metrics.lecoq.io/nibilin33?template=classic&base.header=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FMogadishu) -->
 
 </div>
-
-![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)
+<img src="https://komarev.com/ghpvc/?username=nibilin33&color=blue&style=flat-square&label=visitors"/>
+<!-- ![nibilin33's visitor](https://visitor-badge.glitch.me/badge?page_id=nibilin33)-->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/nibilin33/count.svg) -->
 
 
@@ -25,7 +25,7 @@
 - [enhancement in multi-end component development](https://nibilin33.github.io/frontend-blog/guide/promto.html#%E4%BC%98%E5%8C%96%E5%A4%9A%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91)
 - [frontend effectiveness](https://github.com/nibilin33/react-project-template)                        
 
-### Self-introduction
+### 🔊 Introduction
 😄 [中文版简历](https://nibilin33.github.io/nibl-resume/)       
 ✨ [Resume in English](https://nibilin33.github.io/nibl-resume/#/en)   
 <!--
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 -->
 
 
-## My Skill Set  
+## 💻 Languages and Tools 
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
