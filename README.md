@@ -20,10 +20,12 @@
 
 
 ### 🌱 Recent study and notes 🌱
+- [2024 overview](https://zhuanlan.zhihu.com/p/16463378416)
+- [webassembly for ai toolkit](https://github.com/nibilin33/wasm.lite.ai.toolkit)
+- [morjs for xhs](https://zhuanlan.zhihu.com/p/11950515302)     
 - [Cilent side design system](https://zhuanlan.zhihu.com/p/644529314)       
 - [The Uniapp project startup time is optimized by more than 70%](https://zhuanlan.zhihu.com/p/627506520)
-- [micro miniprogram](https://zhuanlan.zhihu.com/p/618589228)       
-- [micro frontend](https://nibilin33.github.io/frontend-blog/guide/micro.html)    
+- [micro miniprogram](https://zhuanlan.zhihu.com/p/618589228)        
 
 ### 🔊 Introduction
 😄 work for fun
